@@ -16,7 +16,7 @@ Quizzler is a comprehensive quiz management platform that enables users to creat
 - **Responsive Design**: Fully responsive interface optimized for all devices
 - **Admin Features**: Quiz management and results monitoring for creators
 
-## Getting Started
+## Getting Started with
 
 ### Installation
 
